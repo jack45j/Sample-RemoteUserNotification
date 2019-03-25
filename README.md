@@ -1,6 +1,6 @@
 # Remote UserNotification/PushKit Sample
 
-A sample for configure remote UserNotification and PushKit.
+A sample for configuring remote UserNotification and PushKit.
 Because Callkit was blocked in China. We need to manualy complete call scene through user notification so I put a "notificationType" to figure the type of the payload.
 
 # UserNotification Sample payload
